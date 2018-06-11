@@ -4515,6 +4515,7 @@ int main(int argc, char *argv[])
 #endif
 			CUDART_VERSION/1000, (CUDART_VERSION % 1000)/10, arch);
 		printf("  Originally based on Christian Buchner and Christian H. project\n");
+		printf("  compiled by nemosminer@github.com\n");
 		printf("  Include some kernels from alexis78, djm34, djEzo, tsiv and krnlx.\n\n");
 	}
 
